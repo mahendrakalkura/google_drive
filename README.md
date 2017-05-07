@@ -13,7 +13,7 @@ $ go get github.com/mahendrakalkura/google_drive
 ## How to use?
 
 ```
-$ google_drive
+$ ./google_drive
 Open the following URL in your browser: https://accounts.google.com/o/oauth2/auth?...
 Code: ...
 000000000000_00000000000000000000000000000000000000000000000000000000000: [123456789] A
